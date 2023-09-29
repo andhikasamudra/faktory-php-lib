@@ -13,7 +13,7 @@ const $someFaktoryTopic = "topic"
 
 $faktory = new FaktoryClient();
 
-$job = new FaktoryJob($someFaktoryTopic, ['contents')]);
+$job = new FaktoryJob($someFaktoryTopic, ['contents']);
 
 $faktory->push($job);
 ```
