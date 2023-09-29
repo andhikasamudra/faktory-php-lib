@@ -1,0 +1,17 @@
+{
+    "name": "andhikasamudrawibawa/php-faktory-lib",
+    "description": "simple faktory lib for faktory worker",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Andhikasamudrawibawa\\PhpFaktoryLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andhika Samudra Wibawa",
+            "email": "andhikasamudrawibawa@gmail.com"
+        }
+    ],
+    "require": {}
+}
